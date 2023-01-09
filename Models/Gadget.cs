@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TestASPSmarter
+namespace TestASPSmarter.Models
 {
     public partial class Gadget
     {
