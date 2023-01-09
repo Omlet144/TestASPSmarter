@@ -12,5 +12,6 @@ namespace TestASPSmarter.Controllers
         [Route("[controller]/GetGadgets")]
         public IEnumerable<Gadget> GetGadgets() => new TestASPSmarter.DBControllers.GadgetController().GetData();
 
+
     }
 }
